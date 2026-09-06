@@ -16,13 +16,51 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Download XAUUSD data
+        shell: bash
         run: |
-          curl -L "https://xauusd.forex-rezaei.workers.dev/xau?tf=5min&limit=500" -o xauusd-m5.json
+          set -e
+          BASE="https://xauusd.forex-rezaei.workers.dev/xau"
+          MINUTE=$(date -u +%M)
+          HOUR=$(date -u +%H)
+          FORCE_ALL="${{ github.event_name == 'workflow_dispatch' }}"
+
+          fetch_tf () {
+            tf="$1"
+            file="$2"
+            limit="$3"
+            curl -fsSL "$BASE?tf=$tf&limit=$limit" -o "$file"
+          }
+
+          fetch_tf "5min" "xauusd-m5.json" "500"
+
+          if [ "$FORCE_ALL" = "true" ]; then
+            fetch_tf "15min" "xauusd-m15.json" "500"
+            fetch_tf "30min" "xauusd-m30.json" "500"
+            fetch_tf "1h" "xauusd-h1.json" "500"
+            fetch_tf "1day" "xauusd-d1.json" "500"
+            fetch_tf "1week" "xauusd-w1.json" "500"
+            fetch_tf "1month" "xauusd-mn1.json" "500"
+          else
+            if [ $((10#$MINUTE % 15)) -eq 0 ]; then
+              fetch_tf "15min" "xauusd-m15.json" "500"
+            fi
+            if [ $((10#$MINUTE % 30)) -eq 0 ]; then
+              fetch_tf "30min" "xauusd-m30.json" "500"
+            fi
+            if [ "$MINUTE" = "00" ]; then
+              fetch_tf "1h" "xauusd-h1.json" "500"
+            fi
+            if [ "$MINUTE" = "00" ] && [ $((10#$HOUR % 6)) -eq 0 ]; then
+              fetch_tf "1day" "xauusd-d1.json" "500"
+              fetch_tf "1week" "xauusd-w1.json" "500"
+              fetch_tf "1month" "xauusd-mn1.json" "500"
+            fi
+          fi
 
       - name: Commit data
         run: |
           git config user.name "xauusd-bot"
           git config user.email "xauusd-bot@users.noreply.github.com"
-          git add xauusd-m5.json
-          git diff --cached --quiet || git commit -m "Update XAUUSD M5"
+          git add xauusd-*.json
+          git diff --cached --quiet || git commit -m "Update XAUUSD multi-timeframe data"
           git push
