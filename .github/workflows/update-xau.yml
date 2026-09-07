@@ -35,8 +35,12 @@ jobs:
           }
 
           if [ "$FORCE_ALL" = "true" ]; then
-            fetch_tf "XAU/USD" "4h" "xauusd-h4.json" "500"
-            fetch_tf "EUR/USD" "4h" "eurusd-h4.json" "500"
+            fetch_tf "EUR/USD" "15min" "eurusd-m15.json" "500"
+            fetch_tf "EUR/USD" "30min" "eurusd-m30.json" "500"
+            fetch_tf "EUR/USD" "1h" "eurusd-h1.json" "500"
+            fetch_tf "EUR/USD" "1day" "eurusd-d1.json" "500"
+            fetch_tf "EUR/USD" "1week" "eurusd-w1.json" "500"
+            fetch_tf "EUR/USD" "1month" "eurusd-mn1.json" "500"
           else
             fetch_tf "XAU/USD" "5min" "xauusd-m5.json" "500"
             fetch_tf "EUR/USD" "5min" "eurusd-m5.json" "500"
