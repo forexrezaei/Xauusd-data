@@ -2,13 +2,17 @@ EURUSD — 7 Sep 2026
 
 ⛔ NO TRADE
 
-Price mismatch detected between project data and independent live references.
-Project M5 last close: 1.16227
-Independent refs: ~1.1609–1.1612
+Independent EURUSD reference: ~1.16248
+Project M5 last close: 1.16260 (12:50 UTC)
+Price alignment: OK
 
-No stale BUY/SELL setup issued.
+⚠️ Multi-timeframe data desync:
+H1 last candle: 09:00 UTC
+M5 last candle: 12:50 UTC
+
+Because the required Monthly→M5 analysis is not time-aligned, no stale BUY/SELL setup is issued.
 
 🔄 سطوح تغییر جهت
-Pending fresh aligned data
+Pending fresh aligned H1+lower-TF data
 
-Update: 2026-09-07 12:01 UTC
+Update: 2026-09-07 13:03 UTC
