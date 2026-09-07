@@ -1,23 +1,14 @@
 EURUSD — 7 Sep 2026
 
-🟢 BUY
-Zone: 1.1619–1.1622
-SL: 1.1606
-TP1: 1.1634
-TP2: 1.1643
-TP3: 1.1655
-Quality: 84%
+⛔ NO TRADE
 
-🔴 SELL
-Zone: 1.1634–1.1643
-SL: 1.1653
-TP1: 1.1622
-TP2: 1.1607
-TP3: 1.1585
-Quality: 78%
+Price mismatch detected between project data and independent live references.
+Project M5 last close: 1.16227
+Independent refs: ~1.1609–1.1612
+
+No stale BUY/SELL setup issued.
 
 🔄 سطوح تغییر جهت
-🟢 Bullish Shift: 1.1643
-🔴 Bearish Shift: 1.1607
+Pending fresh aligned data
 
-Update: 2026-09-07 11:25 UTC
+Update: 2026-09-07 12:01 UTC
