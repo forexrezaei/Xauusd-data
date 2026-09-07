@@ -1,1 +1,6 @@
-Telegram bridge initialized.
+✅ تست اتصال مستقیم ChatGPT → GitHub → Telegram
+
+اتصال جدید برای ارسال تحلیل EURUSD فعال شد.
+TaskNotify در این مسیر استفاده نمی‌شود.
+
+زمان تست: 2026-09-07
