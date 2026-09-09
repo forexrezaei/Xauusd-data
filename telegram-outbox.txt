@@ -1,18 +1,50 @@
-EURUSD — 7 Sep 2026
+XAUUSD — 09 Sep 2026
 
-⛔ NO TRADE
+قیمت فایل: ≈ 4385.90
+Bias: 🟢 BUY 57% / SELL 43%
 
-Independent reference: ~1.1624 (Reuters)
-Project M5 last close: 1.16289 (13:55 UTC)
-Price alignment: acceptable
+🟢 BUY اصلی ⭐⭐⭐⭐⭐
+Zone: 4367–4375
+SL: 4353
+TP1: 4386
+TP2: 4395
+TP3: 4404
+TP4: 4422
+Quality: 93/100
 
-⚠️ Multi-timeframe data stale/desynced:
-H1 last candle: 09:00 UTC
-M5 last candle: 13:55 UTC
+🔴 SELL اصلی ⭐⭐⭐⭐⭐
+Zone: 4393–4404
+SL: 4416
+TP1: 4380
+TP2: 4368
+TP3: 4350
+TP4: 4341
+Quality: 92/100
 
-برای جلوگیری از سیگنال stale، BUY/SELL صادر نشد.
+اعداد مهم:
+4443.03 — PDH
+4422.20 — Weekly Open
+4404 — مقاومت ساختاری اصلی
+4393 — ابتدای Supply
+4386.44 — High امروز
+4345.65 — PDL دیروز / Sweep شده
+4341.38 — Low امروز
+4510.96 — PWH
+4282.46 — PWL
+
+مهم‌ترین قیمت: 4404
 
 🔄 سطوح تغییر جهت
-Pending fresh aligned H1 + lower-TF data
 
-Update: 2026-09-07 14:01 UTC
+🟢 تغییر جهت صعودی
+سطح: 4404
+شرط: تثبیت H1 بالای سطح
+اهداف: 4422 | 4443 | 4454
+
+🔴 تغییر جهت نزولی
+سطح: 4341.38
+شرط: شکست و تثبیت H1 زیر سطح
+اهداف: 4325 | 4300 | 4282.46
+
+جمع‌بندی:
+در 4385.9 ورود مستقیم مناسب نیست. Pullback به 4367–4375 برای BUY یا رسیدن به 4393–4404 برای SELL کیفیت بهتری دارد.
