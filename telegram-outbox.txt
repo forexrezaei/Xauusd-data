@@ -1,52 +1,50 @@
-XAUUSD — Morning Analysis 14 Sep 2026 — based on 09-14.xlsx
+XAUUSD — Update 14 Sep 2026 — 16:53 Iran
+Morning file + updated H4/H1/M30/M15/M5 charts
 
-داده تا 07:40 UTC / 11:10 ایران
-قیمت: 4324.48
-Today High: 4355.49
-Today Low: 4324.19
+Current: ~4273–4276
+Intraday low on M5: ~4253
+Bias: 🔴 SELL 82% / BUY 18%
 
-Bias: 🔴 SELL 68% / BUY 32%
-
-نقدینگی:
-PDH 4402.49
-PDL 4292.27
-PWH 4443.03
-PWL 4292.27
-PMH 4696.80
-PML 4019.32
+Morning scenario update:
+PDL/PWL 4292.27 was decisively broken. Morning BUY 4292–4315 is INVALIDATED.
+Morning bearish scenario confirmed and extended below TP3 4292.
 
 🔴 SELL اصلی
-Zone: 4338–4355
-SL: 4363
-TP1: 4325
-TP2: 4313
-TP3: 4292
-Quality: 92/100
+Zone: 4288–4302
+SL: 4314
+TP1: 4270
+TP2: 4253
+TP3: 4235
+Quality: 94/100
 
-🟢 BUY واکنشی
-Zone: 4292–4315
-SL: 4280
-TP1: 4330
-TP2: 4345
-TP3: 4355
-Quality: 82/100
+Secondary deeper sell zone: 4310–4322 if reached.
 
-مهم‌ترین قیمت: 4355.49
+No chase-sell at 4273 due to oversold M30/H1 and sweep near 4253.
+
+RSI:
+H4 33.88
+H1 31.32
+M30 27.58
+M15 33.90
+M5 41.95
+=> short-term rebound risk, but no bullish structural reversal yet.
+
+QM:
+Morning bullish QM zone failed after 4292 breakdown.
+No confirmed bullish QM yet at current low; 4253 sweep can become a candidate only after CHOCH/reclaim.
+Bearish structure remains dominant.
+
+Key Price: 4292.27
 
 سطوح تغییر جهت
 🟢 تغییر جهت صعودی
-سطح: 4355.49
-شرط: کلوز H1 بالای سطح
-اهداف: 4370 | 4388 | 4402.49
+سطح: 4302
+شرط: تثبیت H1 بالای سطح
+اهداف: 4320 | 4340 | 4355
 
 🔴 تغییر جهت نزولی
-سطح: 4324.19
-شرط: کلوز M15/H1 زیر سطح
-اهداف: 4313.68 | 4305 | 4292.27
+سطح: 4253
+شرط: شکست/تثبیت زیر سطح
+اهداف: 4235 | 4220 | 4200
 
-ساختار:
-Daily/Weekly نزولی و زیر Monthly Open 4454.37.
-امروز 4338.69 باز شد، تا 4355.49 بالا رفت و سپس به کف 4324.19 برگشت؛ H1 از 4355 rejection داده و lower highs ساخته.
-ناحیه 4292–4315 مهم‌ترین discount/liquidity zone پایین است و برای Bullish QM واکنشی مناسب‌تر است.
-در قیمت فعلی SELL تعقیبی مناسب نیست؛ ترجیح pullback به 4338–4355.
-اعتبار سیگنال صبح تا 14:00 ایران.
+Conclusion: trend remains bearish; wait for pullback to 4288–4302 rather than selling the low.
