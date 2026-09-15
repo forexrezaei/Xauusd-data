@@ -1,50 +1,37 @@
-XAUUSD — Update 14 Sep 2026 — 16:53 Iran
-Morning file + updated H4/H1/M30/M15/M5 charts
+XAUUSD — Morning Analysis 15 Sep 2026 — file 09-15.xlsx
+Data through 07:45 UTC / 11:15 Iran
+Price ~4305.6
 
-Current: ~4273–4276
-Intraday low on M5: ~4253
-Bias: 🔴 SELL 82% / BUY 18%
+Bias: 🔴 SELL 62% / BUY 38%
 
-Morning scenario update:
-PDL/PWL 4292.27 was decisively broken. Morning BUY 4292–4315 is INVALIDATED.
-Morning bearish scenario confirmed and extended below TP3 4292.
+Liquidity:
+PDH 4355.49 | PDL 4253.58
+PWH 4443.03 | PWL 4292.27
+PMH 4696.80 | PML 4019.32
 
-🔴 SELL اصلی
-Zone: 4288–4302
-SL: 4314
-TP1: 4270
-TP2: 4253
-TP3: 4235
-Quality: 94/100
+🔴 SELL main
+Zone 4312–4318
+SL 4326
+TP1 4298
+TP2 4283
+TP3 4254
+Quality 89/100
 
-Secondary deeper sell zone: 4310–4322 if reached.
+🟢 BUY reaction
+Zone 4283–4293
+SL 4274
+TP1 4305
+TP2 4317
+TP3 4330
+Quality 78/100
 
-No chase-sell at 4273 due to oversold M30/H1 and sweep near 4253.
+Key Price: 4317.31
 
-RSI:
-H4 33.88
-H1 31.32
-M30 27.58
-M15 33.90
-M5 41.95
-=> short-term rebound risk, but no bullish structural reversal yet.
+Shift levels:
+Bullish: 4317.31 — H1 close above; targets 4330 | 4355.49 | 4380
+Bearish: 4283.18 — H1 close below; targets 4270 | 4253.58 | 4235
 
-QM:
-Morning bullish QM zone failed after 4292 breakdown.
-No confirmed bullish QM yet at current low; 4253 sweep can become a candidate only after CHOCH/reclaim.
-Bearish structure remains dominant.
-
-Key Price: 4292.27
-
-سطوح تغییر جهت
-🟢 تغییر جهت صعودی
-سطح: 4302
-شرط: تثبیت H1 بالای سطح
-اهداف: 4320 | 4340 | 4355
-
-🔴 تغییر جهت نزولی
-سطح: 4253
-شرط: شکست/تثبیت زیر سطح
-اهداف: 4235 | 4220 | 4200
-
-Conclusion: trend remains bearish; wait for pullback to 4288–4302 rather than selling the low.
+Structure:
+Higher TF remains bearish below weekly open 4338.69 and monthly open 4454.37. Yesterday swept 4253.58 and recovered. Today low 4283.18, high 4317.31. H1 formed a recovery sequence but rejected 4317 and is consolidating around 4305.
+QM: bullish reaction candidate remains from yesterday's 4253.58 sweep; intraday 4283–4293 is the better discount/retest buy area. Bearish continuation remains preferred unless 4317.31 is reclaimed.
+Morning setups valid until 14:00 Iran.
