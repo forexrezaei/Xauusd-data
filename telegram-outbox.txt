@@ -1,52 +1,58 @@
-XAUUSD — Morning Analysis 16 Sep 2026 — 09-16.xlsx
-Data through 08:10 UTC
-Price ~4322.91
-Today O 4295.27 | H 4341.06 | L 4275.43
+XAUUSD — Update 16 Sep 2026 — file 09-16(1).xlsx
+Latest M5: 15:55 UTC | Price 4346.10
+Today O 4295.27 | H 4353.86 | L 4275.43
 
-Bias: 🔴 SELL 58% / BUY 42%
+Bias: 🟢 BUY 57% / 🔴 SELL 43%
 
-Liquidity:
-PDH 4317.31 | PDL 4261.50
-PWH 4443.03 | PWL 4292.27
-PMH 4696.80 | PML 4019.32
-Weekly Open 4338.69 | Monthly Open 4454.37
+Major update vs morning:
+Price reclaimed Weekly Open 4338.69 and PDH 4317.31, then printed 4353.86. Morning SELL zone 4338–4355 was reached; price is still inside/near its upper edge, but intraday structure is now bullish recovery. Do not treat the old sell bias as unchanged.
 
-🔴 SELL MAIN
-Zone: 4338–4355
-SL: 4365
-TP1: 4320
-TP2: 4292
-TP3: 4275
+RSI:
+H4 53.47 | H1 64.27 | M30 64.00 | M15 59.48 | M5 53.85
+
+🟢 BUY MAIN
+Zone: 4328–4339
+SL: 4315
+TP1: 4354
+TP2: 4355.49
+TP3: 4380
 Quality: 89/100
 
-🟢 BUY REACTION
-Zone: 4262–4276
-SL: 4251
-TP1: 4292
-TP2: 4317
-TP3: 4338
-Quality: 84/100
+🔴 SELL REACTION
+Zone: 4354–4362
+SL: 4372
+TP1: 4339
+TP2: 4328
+TP3: 4317
+Quality: 82/100
 
-Structure:
-Today first swept below PWL 4292.27 to 4275.43, then displaced up through PDH 4317.31 to 4341.06. This creates a bullish intraday recovery, but 4338.69 weekly open / 4341.06 internal high is being rejected and higher-timeframe price remains below 4355.49 protected swing high and monthly open.
-QM: bullish reaction structure exists from 4261.50–4275.43 liquidity area; bearish continuation zone remains 4338–4355.
+Liquidity:
+PDH 4317.31 — reclaimed
+PDL 4261.50
+PWH 4443.03
+PWL 4292.27 — swept/reclaimed
+Weekly Open 4338.69 — reclaimed
+Monthly Open 4454.37
+Today High 4353.86
+Prior protected high 4355.49
 
-Key Price: 4338.69
+QM/SMC:
+4275.43 sweep + bullish displacement through 4317 and 4338 confirms lower-TF bullish recovery/QM reaction.
+4353.86–4355.49 is immediate buy-side liquidity and the protected swing cap.
+No clean bearish structural shift yet while 4317.31 holds.
+
+Key Price: 4355.49
 
 🔄 Shift Levels
 🟢 Bullish Shift
 Level: 4355.49
 Condition: H1 close above
-Targets: 4380 | 4402 | 4422
+Targets: 4380 | 4402.49 | 4422.20
 
 🔴 Bearish Shift
-Level: 4261.50
+Level: 4317.31
 Condition: H1 close below
-Targets: 4253.58 | 4235 | 4220
-
-4341.06 is an internal resistance/confirmation level, not the final bullish shift.
-4275.43 is today's internal low, not the final bearish shift.
+Targets: 4292.27 | 4275.43 | 4261.50
 
 Conclusion:
-At ~4323 price is between zones. Do not chase. Sell preference at 4338–4355 while below 4355.49; reactive buy only at 4262–4276 while 4261.50 holds.
-Morning signal validity until 14:00 Iran.
+At 4346 price is between pullback demand and 4355 liquidity. Do not chase. H1 close above 4355.49 confirms continuation; rejection there can retrace to 4339/4328.
