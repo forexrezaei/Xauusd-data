@@ -1,55 +1,52 @@
-XAUUSD — Corrected Analysis — 15 Sep 2026
-File: 09-15-2.xlsx
-Price: 4280.52
+XAUUSD — Morning Analysis 16 Sep 2026 — 09-16.xlsx
+Data through 08:10 UTC
+Price ~4322.91
+Today O 4295.27 | H 4341.06 | L 4275.43
 
-Bias: 🔴 SELL 70% / BUY 30%
-
-Structure:
-Daily/H4/H1 bearish. Today: H 4317.31 | L 4261.50.
-H4 bearish impulse 4307.72 → 4261.50; rebound only to 4286.86.
-M15/M30 recovery has not broken the key H1 lower-high structure.
-
-🔴 SELL MAIN
-Zone: 4293–4307
-SL: 4319
-TP1: 4280
-TP2: 4262
-TP3: 4254
-Quality: 91/100
-
-🟢 BUY REACTION
-Zone: 4254–4263
-SL: 4244
-TP1: 4280
-TP2: 4293
-TP3: 4307
-Quality: 74/100
+Bias: 🔴 SELL 58% / BUY 42%
 
 Liquidity:
-PDH 4355.49
-PDL 4253.58
-PWH 4443.03
-PWL 4292.27
-PMH 4696.80
-PML 4019.32
+PDH 4317.31 | PDL 4261.50
+PWH 4443.03 | PWL 4292.27
+PMH 4696.80 | PML 4019.32
+Weekly Open 4338.69 | Monthly Open 4454.37
 
-Key Price: 4307.72
+🔴 SELL MAIN
+Zone: 4338–4355
+SL: 4365
+TP1: 4320
+TP2: 4292
+TP3: 4275
+Quality: 89/100
+
+🟢 BUY REACTION
+Zone: 4262–4276
+SL: 4251
+TP1: 4292
+TP2: 4317
+TP3: 4338
+Quality: 84/100
+
+Structure:
+Today first swept below PWL 4292.27 to 4275.43, then displaced up through PDH 4317.31 to 4341.06. This creates a bullish intraday recovery, but 4338.69 weekly open / 4341.06 internal high is being rejected and higher-timeframe price remains below 4355.49 protected swing high and monthly open.
+QM: bullish reaction structure exists from 4261.50–4275.43 liquidity area; bearish continuation zone remains 4338–4355.
+
+Key Price: 4338.69
 
 🔄 Shift Levels
 🟢 Bullish Shift
-Level: 4317.31
+Level: 4355.49
 Condition: H1 close above
-Targets: 4338.69 | 4355.49 | 4380
+Targets: 4380 | 4402 | 4422
 
 🔴 Bearish Shift
-Level: 4253.58
+Level: 4261.50
 Condition: H1 close below
-Targets: 4235 | 4220 | 4200
+Targets: 4253.58 | 4235 | 4220
 
-Important:
-4286.86 and 4307.72 are internal resistance / warning levels, NOT the final bullish shift. True H1 bullish structural shift requires reclaim of today's protected swing high 4317.31.
-4261.50 is today's internal low; the stronger bearish continuation/shift level is PDL 4253.58.
+4341.06 is an internal resistance/confirmation level, not the final bullish shift.
+4275.43 is today's internal low, not the final bearish shift.
 
-QM:
-Potential bullish QM only around 4253–4262 after liquidity sweep and lower-TF CHOCH; not confirmed as H1 reversal.
-Bearish continuation remains primary below 4317.31.
+Conclusion:
+At ~4323 price is between zones. Do not chase. Sell preference at 4338–4355 while below 4355.49; reactive buy only at 4262–4276 while 4261.50 holds.
+Morning signal validity until 14:00 Iran.
