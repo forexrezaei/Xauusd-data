@@ -1,58 +1,74 @@
-XAUUSD — Update 16 Sep 2026 — file 09-16(1).xlsx
-Latest M5: 15:55 UTC | Price 4346.10
-Today O 4295.27 | H 4353.86 | L 4275.43
+XAUUSD — تحلیل صبح 18 سپتامبر
 
-Bias: 🟢 BUY 57% / 🔴 SELL 43%
+قیمت: 4360.28
+امروز: O 4342.79 | H 4365.67 | L 4334.45
 
-Major update vs morning:
-Price reclaimed Weekly Open 4338.69 and PDH 4317.31, then printed 4353.86. Morning SELL zone 4338–4355 was reached; price is still inside/near its upper edge, but intraday structure is now bullish recovery. Do not treat the old sell bias as unchanged.
+بایاس اصلی
+BUY 64% | SELL 36%
 
-RSI:
-H4 53.47 | H1 64.27 | M30 64.00 | M15 59.48 | M5 53.85
+ساختار:
+بعد از حرکت 4257 → 4381، اصلاح تا 4340 انجام شد و امروز Higher Low در 4334.45 ساخته شد و قیمت تا 4365.67 بالا آمد.
+در H4 هنوز سقف 4381.42 شکسته نشده؛ ساختار Intraday صعودی است اما ادامه اصلی نیاز به عبور از 4381 دارد.
 
-🟢 BUY MAIN
-Zone: 4328–4339
-SL: 4315
-TP1: 4354
-TP2: 4355.49
-TP3: 4380
-Quality: 89/100
+نقدینگی‌های مهم:
+PDH: 4381.42
+PDL: 4257.39
+PWH: 4443.03
+PWL: 4292.27
+Weekly Open: 4338.69
+Monthly Open: 4454.37
 
-🔴 SELL REACTION
-Zone: 4354–4362
-SL: 4372
-TP1: 4339
-TP2: 4328
-TP3: 4317
-Quality: 82/100
+🟢 BUY اصلی ⭐⭐⭐⭐⭐
+Zone: 4335–4343
+SL: 4323
+TP1: 4365
+TP2: 4381
+TP3: 4402
+TP4: 4422
+Quality: 92/100
 
-Liquidity:
-PDH 4317.31 — reclaimed
-PDL 4261.50
-PWH 4443.03
-PWL 4292.27 — swept/reclaimed
-Weekly Open 4338.69 — reclaimed
-Monthly Open 4454.37
-Today High 4353.86
-Prior protected high 4355.49
+🔴 SELL واکنشی ⭐⭐⭐⭐
+Zone: 4378–4386
+SL: 4398
+TP1: 4360
+TP2: 4343
+TP3: 4335
+Quality: 81/100
 
-QM/SMC:
-4275.43 sweep + bullish displacement through 4317 and 4338 confirms lower-TF bullish recovery/QM reaction.
-4353.86–4355.49 is immediate buy-side liquidity and the protected swing cap.
-No clean bearish structural shift yet while 4317.31 holds.
+SMC / QM:
+4257 Sweep → 4381 Displacement → Pullback → 4334 Sweep → Reclaim 4338 → 4365.
+Bullish QM پایین همچنان معتبر است. امروز 4334.45 زیر Weekly Open نقدینگی را گرفت و قیمت دوباره بالای 4338.69 برگشت.
 
-Key Price: 4355.49
+مهم‌ترین قیمت: 4338.69
 
-🔄 Shift Levels
-🟢 Bullish Shift
-Level: 4355.49
-Condition: H1 close above
-Targets: 4380 | 4402.49 | 4422.20
+🔄 سطوح تغییر جهت
 
-🔴 Bearish Shift
-Level: 4317.31
-Condition: H1 close below
-Targets: 4292.27 | 4275.43 | 4261.50
+🟢 تغییر جهت صعودی
+سطح: 4381.42
+شرط: کلوز H1 بالای سطح
+اهداف: 4402.49 | 4422.20 | 4443.03
 
-Conclusion:
-At 4346 price is between pullback demand and 4355 liquidity. Do not chase. H1 close above 4355.49 confirms continuation; rejection there can retrace to 4339/4328.
+🔴 تغییر جهت نزولی
+سطح: 4324.17
+شرط: کلوز H1 زیر سطح
+اهداف: 4292.27 | 4275.43 | 4257.39
+
+4334.45 فقط Low داخلی امروز و هشدار اولیه ضعف BUY است؛ 4324.17 Protected Low مهم‌تر ساختار فعلی است.
+
+جمع‌بندی:
+BUY: 4335–4343
+SL: 4323
+TP1: 4365
+TP2: 4381
+TP3: 4402
+
+SELL: 4378–4386
+SL: 4398
+TP1: 4360
+TP2: 4343
+TP3: 4335
+
+Key Price: 4338.69
+
+در 4360 خرید تعقیبی مناسب نیست. اصلاح به 4335–4343 برای BUY یا رسیدن به 4378–4386 برای واکنش SELL نقاط باکیفیت‌تری هستند.
+ساختار فعلی صعودی است تا وقتی 4324.17 حفظ شود؛ کلوز H1 بالای 4381.42 ادامه موج صعودی را تأیید می‌کند.
