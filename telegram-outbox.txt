@@ -1,67 +1,21 @@
-XAUUSD — تحلیل صبح 29 سپتامبر
+XAUUSD 29 Sep intraday
+Price 4142.47
+Today H 4149.22 L 4113.26
+Bias SELL 68 / BUY 32
+RSI D1 38.78 H4 29.77 H1 41.71 M30 57.44 M15 61.29 M5 55.03
 
-قیمت آخر: 4132
-امروز O4120.87 H4140.43 L4113.26
-دیروز O4272.31 H4275.21 L4110.81 C4114.16
+Morning SELL zone 4148-4168 activated. High 4149.22. SL 4182 not reached. TP1 4130 not reached. Lowest after first touch 4136.10. Signal remains active/open.
 
-بایاس: SELL 72% | BUY 28%
+Reaction BUY 4098-4112 has not activated today; today's low is 4113.26.
 
-RSI14:
-D1 29.41 | H4 24.48 | H1 41.96 | M30 57.05 | M15 63.73 | M5 35.78
+Structure: recovery from 4110.81/4113 area reached supply 4148-4168. Lower-timeframe recovery is visible, but H1/H4 structure remains bearish until 4171.38 is reclaimed with H1 acceptance.
 
-ساختار اصلی H4/H1 نزولی است. امروز Recovery از 4113.26 تا 4140.43 شکل گرفته اما هنوز شکست ساختاری معتبر H1 نداریم.
+SELL 4148-4168 | SL 4182 | TP 4130 / 4112 / 4099 / 4075
+BUY reaction 4098-4112 | SL 4083 | TP 4130 / 4148 / 4170
 
-نقدینگی:
-PDH 4275.21
-PDL 4110.81
-PWH 4383.44
-PWL 4244.38
-PMH 4510.96
-Monthly Open 4454.37
-SSL: 4113.26 / 4110.81 / 4098.51
-BSL: 4140.43 / 4171.38 / 4203
+Key Price 4171.38
+Bullish Shift 4171.38 with H1 close and acceptance above; targets 4203 / 4231 / 4244.
+Main Bullish Shift 4244.38; targets 4275 / 4292 / 4317.
+Bearish Continuation 4110.81 with H1 close below; targets 4098.51 / 4075 / 4050.
 
-SMC/QM:
-4315 Reject → 4244 BOS → 4203 BOS → 4191 BOS → 4140 BOS → 4110.81 → Recovery.
-Supply/Retest مهم: 4148–4168.
-Bullish reaction/QM پایین: 4098–4112.
-
-SELL اصلی:
-Zone 4148–4168
-SL 4182
-TP1 4130
-TP2 4112
-TP3 4099
-TP4 4075
-Quality 94/100
-
-BUY واکنشی:
-Zone 4098–4112
-SL 4083
-TP1 4130
-TP2 4148
-TP3 4170
-Quality 85/100
-
-Key Price: 4171.38
-
-سطوح تغییر جهت:
-Bullish Shift کوتاه‌مدت 4171.38
-شرط H1 Close + Acceptance بالای سطح
-اهداف 4203 / 4231 / 4244
-
-Bullish Shift اصلی 4244.38
-شرط H1 Close + Acceptance بالای سطح
-اهداف 4275 / 4292 / 4317
-
-Bearish Continuation 4110.81
-شرط H1 Close زیر سطح
-اهداف 4098.51 / 4075 / 4050
-
-جمع‌بندی:
-SELL 4148–4168 | SL4182 | TP 4130/4112/4099
-BUY واکنشی 4098–4112 | SL4083 | TP 4130/4148/4170
-در 4132 ورود مستقیم کیفیت کمتری دارد.
-اولویت ساختاری Sell-on-Rally در 4148–4168 است.
-H1 زیر 4110.81 ادامه نزول را تأیید می‌کند.
-H1 بالای 4171.38 اولین Bullish Shift معتبر کوتاه‌مدت است.
+Until 4171.38 is reclaimed, Sell-on-Rally remains structural priority.
