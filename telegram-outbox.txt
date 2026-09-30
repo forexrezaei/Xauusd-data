@@ -1,21 +1,43 @@
-XAUUSD Sep 30
-Last 4173.02
-Today O4183.29 H4187.80 L4167.37
-Previous day H4185.25 L4113.26 C4180.38
-Bias SELL55 BUY45
-RSI D1 38.47 H4 29.60 H1 56.92 M30 47.36 M15 42.05 M5 32.21
+XAUUSD 09-30-2
+Last 4202.81 | H 4219.22 | L 4165.64
+Bias BUY62 SELL38
+RSI MN58.66 W44.18 D42.04 H4 48.90 H1 63.39 M30 63.28 M15 60.16 M5 54.80
 
-Yesterday recovery from 4113.26 broke 4171.38 and closed above it. Short-term structure improved, while H4/D1 remain weak below 4203 and 4244.38.
+Morning BUY 4158-4170 activated. Low 4165.64. TP1 4185 hit. TP2 4203 hit. TP3 4225 not hit. High 4219.22. WIN.
+Morning reaction SELL 4198-4210 activated. High 4219.22. SL4224 not hit. TP1 4180 not hit. OPEN.
 
-Liquidity PDH4185.25 PDL4113.26 PWH4383.44 PWL4244.38 PMH4510.96 PML4110.81 WeeklyOpen4272.31 MonthlyOpen4454.37.
+Structure: sweep 4110.81/4113, bullish displacement, CHOCH 4171.38, BOS 4185, H1 close above 4203 at 4208.51, high 4219.22. Short-term H1 bullish. Main H4 shift still requires 4244.38.
 
-BUY zone 4158-4170 SL4143 TP4185/4203/4225/4244 Quality91
-Reaction SELL zone 4198-4210 SL4224 TP4180/4168/4152 Quality87
+Liquidity: PDH4185.25 taken; PDL4113.26; PWH4383.44; PWL4244.38; PMH4510.96; PML4110.81; WeeklyOpen4272.31; MonthlyOpen4454.37.
+BSL 4219.22 / 4244.38 / 4272.31
+SSL pullback 4203 / 4192 / 4185 / 4176 / 4165
 
-Key 4203.
-H1 acceptance above 4203: targets 4225/4244/4272.
-Main bullish shift 4244.38: targets 4272/4292/4317.
-H1 close below 4152: targets 4130/4113/4110.81.
-H1 close below 4110.81: targets 4098.51/4075/4050.
+BUY 4192-4204
+SL4177
+TP1 4219
+TP2 4244
+TP3 4272
+TP4 4292
+Quality94
 
-At 4173 price is near the buy zone. Above 4203 recovery strengthens. Below 4152 the short-term recovery weakens.
+Reaction SELL 4235-4246
+SL4260
+TP1 4219
+TP2 4203
+TP3 4185
+Quality86
+
+Key Price 4203
+Bullish continuation: H1 close+acceptance above 4219.22 -> 4244.38 / 4272.31 / 4292
+Main bullish shift: H1 close+acceptance above 4244.38 -> 4272 / 4292 / 4317
+Short bearish shift: H1 close below 4176 -> 4165 / 4152 / 4130
+Main bearish shift: H1 close below 4110.81 -> 4098.51 / 4075 / 4050
+
+Summary:
+BUY 4192-4204 SL4177 TP4219/4244/4272
+SELL reaction 4235-4246 SL4260 TP4219/4203/4185
+Morning BUY hit TP1 and TP2.
+Holding 4203 favors continuation toward 4219 and 4244.
+H1 above 4219.22 opens 4244/4272.
+H1 below 4176 damages short-term bullish recovery.
+H1 above 4244.38 confirms stronger H4 bullish shift.
