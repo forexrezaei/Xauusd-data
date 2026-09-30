@@ -1,21 +1,21 @@
-XAUUSD Sep 29 update
-Last 4154.86
-Today O 4120.87 H 4161.43 L 4113.26
-Bias SELL 58 / BUY 42
-RSI D1 38.11 H4 34.61 H1 51.50 M30 59.72 M15 60.86 M5 52.25
+XAUUSD Sep 30
+Last 4173.02
+Today O4183.29 H4187.80 L4167.37
+Previous day H4185.25 L4113.26 C4180.38
+Bias SELL55 BUY45
+RSI D1 38.47 H4 29.60 H1 56.92 M30 47.36 M15 42.05 M5 32.21
 
-Recovery is stronger and price has moved deeper into 4148-4168 supply. H1 momentum recovered, but 4171.38 has not been broken.
+Yesterday recovery from 4113.26 broke 4171.38 and closed above it. Short-term structure improved, while H4/D1 remain weak below 4203 and 4244.38.
 
-Morning SELL 4148-4168 is active. High 4161.43. SL 4182 not hit. TP1 4130 not hit. Signal remains open, but bullish pressure is stronger than the previous update.
+Liquidity PDH4185.25 PDL4113.26 PWH4383.44 PWL4244.38 PMH4510.96 PML4110.81 WeeklyOpen4272.31 MonthlyOpen4454.37.
 
-Structure: 4110.81 sweep, recovery, internal bullish shift on lower timeframes, then deeper entry into supply. Below 4171.38 this is still a pullback inside the broader bearish H4 structure.
+BUY zone 4158-4170 SL4143 TP4185/4203/4225/4244 Quality91
+Reaction SELL zone 4198-4210 SL4224 TP4180/4168/4152 Quality87
 
-SELL 4148-4168 | SL 4182 | TP 4130 / 4112 / 4099
-Reaction BUY 4098-4112 | SL 4083 | TP 4130 / 4148 / 4170
+Key 4203.
+H1 acceptance above 4203: targets 4225/4244/4272.
+Main bullish shift 4244.38: targets 4272/4292/4317.
+H1 close below 4152: targets 4130/4113/4110.81.
+H1 close below 4110.81: targets 4098.51/4075/4050.
 
-Key 4171.38
-H1 close and acceptance above 4171.38 = short-term bullish shift, targets 4203 / 4231 / 4244.
-Main bullish shift 4244.38.
-H1 close below 4110.81 = bearish continuation, targets 4098.51 / 4075 / 4050.
-
-At 4155, a new entry in the middle of the active zone has lower quality.
+At 4173 price is near the buy zone. Above 4203 recovery strengthens. Below 4152 the short-term recovery weakens.
